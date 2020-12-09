@@ -17,7 +17,7 @@
 	</licenses>
 	<properties>
 		<geotools.version>20.0</geotools.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jts.version>1.16.0</jts.version>
 		<skipTests>true</skipTests>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
